@@ -18,6 +18,8 @@ To initialize the project, run:
 
     pnpm-workspace.yaml
 
+    type nul> pnpm-workspace.yaml
+
 </p>
 <p>and copy paste following content into it </p>
 
